@@ -1,0 +1,22 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    margin-left: 20px;
+}
+h2 {
+    margin-top: 10px;
+}
+dd {
+    margin-left: 80px;
+}
+ol {
+    width: 700px;
+    padding: 0px;
+}
+span.synonyms {
+    color: blueviolet;
+}
+span.example {
+    color: grey;
+}
